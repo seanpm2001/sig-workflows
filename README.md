@@ -32,12 +32,14 @@ The current SIG is made up of the following individuals, and feel free to submit
 
 ### Contributors
 
+
 - Nick Denny ([VP Engineering, APImetrics](https://www.linkedin.com/in/nickdenny/))
 - Frank Kilcommins ([API Evangelist, SmartBear](https://www.linkedin.com/in/frank-kilcommins))
 - Mike Ralphson ([OpenAPI Specification Lead, Postman](https://www.linkedin.com/in/mikeralphson/))
 - Alessandro Duminuco ([Senior Technical Leader, Cisco](https://www.linkedin.com/in/alessandroduminuco/))
 - Mark Haine ([Founder, Considrd Consulting](https://www.linkedin.com/in/mark-haine/))
 - Phil Sturgeon ([Dev Rel, Stoplight](https://www.linkedin.com/in/philipsturgeon/))
+- Kevin Duffey ([Lead Codegen, Postman](https://www.linkedin.com/in/kmd/))
 
 
 ## Getting Involved
